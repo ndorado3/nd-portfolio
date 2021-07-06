@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chicle&display=swap");
+
+/* Section with Nadia's img & text style */
+h1 {
+  padding-top: 10%;
+}
+
+.container {
+  position: relative;
+  padding-top: 1%;
+}
+/* designer text */
+.centerleft {
+  position: relative;
+  top: 200px;
+  left: auto;
+  font-size: 50px;
+  font-family: "Chicle", cursive;
+}
+.centerleftp {
+  position: relative;
+  top: 200px;
+  left: auto;
+  font-size: 20px;
+}
+
+/* coder text */
+.coder {
+  position: relative;
+  top: 200px;
+  right: 9px;
+  font-size: 50px;
+  font-family: "Nunito", sans-serif;
+}
+.centerightp {
+  position: relative;
+  top: 200px;
+  right: 9px;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+}
+/* my picture styling */
+.my-pic {
+  width: 80%;
+  padding: auto;
+  align-content: center;
+}
