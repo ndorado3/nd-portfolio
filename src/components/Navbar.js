@@ -1,8 +1,9 @@
 import React from "react";
+import '../Assets/css/Navbar.css'
 
 function NavBar({ currentPage, handlePageChange }) {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-sm navbar-light">
       <div className="container-fluid">
         <button
           className="navbar-toggler"
