@@ -1,10 +1,16 @@
 import React from "react";
-import NavBar from "./components/Navbar";
+import PortfolioContainer from "./components/PortfolioContainer";
+// import NavBar from "./components/Navbar";
 
-export default function App() {
-    return (
-      <ul>
-        <NavBar />
-      </ul>
-    );
-  }
+
+const App = () => <PortfolioContainer/>;
+
+export default App;
+
+// export default function App() {
+//     return (
+//       <ul>
+//         <NavBar />
+//       </ul>
+//     );
+//   }
