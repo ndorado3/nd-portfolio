@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
+
+h6,
+.py-3 {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  color: aliceblue;
+  font-size: 10pt;
+}
+
+footer {
+  /* background-color: #ac7892f5; */
+  background-color: rgb(53, 51, 51);
+}
