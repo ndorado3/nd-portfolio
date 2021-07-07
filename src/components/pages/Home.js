@@ -5,7 +5,7 @@ import "../../Assets/css/Home.css";
 export default function Home() {
   return (
     // <!--The designer picture shows in here-->
-    <section className="container flex-container-fliud">
+    <section className="container flex-container-fliud home">
       <div className="row">
         {/* <!-- Designer div --> */}
         <div className="col">

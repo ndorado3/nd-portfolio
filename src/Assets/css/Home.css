@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Chicle&display=swap");
 
-/* Section with Nadia's img & text style */
+/* My name styling */
 h1 {
   padding-top: 10%;
 }
 
-.container {
+.home {
   position: relative;
   padding-top: 1%;
 }
@@ -33,6 +33,7 @@ h1 {
   font-size: 50px;
   font-family: "Nunito", sans-serif;
 }
+
 .centerightp {
   position: relative;
   top: 200px;
@@ -40,6 +41,7 @@ h1 {
   font-size: 20px;
   font-family: "Nunito", sans-serif;
 }
+
 /* my picture styling */
 .my-pic {
   width: 80%;

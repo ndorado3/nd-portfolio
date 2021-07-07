@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
 
 .navbar {
-  background-color: #be92a8c1;
+  background-color: #ac7892f5;
   font-family: "Nunito", sans-serif;
-  color: white;
-  font-size: 12pt;
+  font-weight: bold;
+  font-size: 14pt;
+}
+
+.style {
   text-align: center;
 }
