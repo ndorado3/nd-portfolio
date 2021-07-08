@@ -3,7 +3,7 @@
 
 /* My name styling */
 h1 {
-  padding-top: 10%;
+  padding-top: 5%;
 }
 
 .home {
@@ -13,14 +13,14 @@ h1 {
 /* designer text */
 .centerleft {
   position: relative;
-  top: 200px;
+  top: 250px;
   left: auto;
   font-size: 50px;
   font-family: "Chicle", cursive;
 }
 .centerleftp {
   position: relative;
-  top: 200px;
+  top: 250px;
   left: auto;
   font-size: 20px;
 }
@@ -28,7 +28,7 @@ h1 {
 /* coder text */
 .coder {
   position: relative;
-  top: 200px;
+  top: 250px;
   right: 9px;
   font-size: 50px;
   font-family: "Nunito", sans-serif;
@@ -36,7 +36,7 @@ h1 {
 
 .centerightp {
   position: relative;
-  top: 200px;
+  top: 250px;
   right: 9px;
   font-size: 20px;
   font-family: "Nunito", sans-serif;
@@ -45,6 +45,6 @@ h1 {
 /* my picture styling */
 .my-pic {
   width: 80%;
-  padding: auto;
   align-content: center;
+  padding-bottom: 5%;
 }

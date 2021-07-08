@@ -1,6 +1,7 @@
 import React from "react";
 import myPic from "../../Assets/img/my-pic.png";
 import "../../Assets/css/Home.css";
+import About from "../pages/About"
 
 export default function Home() {
   return (
@@ -35,6 +36,7 @@ export default function Home() {
           alt="Nadia's photograph"
         />
       </div>
+      <About />
     </section>
   );
 }
