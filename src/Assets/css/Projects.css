@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chicle&display=swap");
+
 .n-card {
   margin: 20px;
   display: inline-block;
@@ -5,21 +8,31 @@
 .n-card-image {
   border-radius: 10px;
   width: 300px;
-  height: 480px;
+  height: 460px;
   box-shadow: 0px 0px 3px 1px #ccc;
 }
 
 .n-card-info {
   margin-top: 10px;
   min-height: 100px;
+  font-family: "Nunito", sans-serif;
 }
 
 .n-card-title {
-  font-size: 24px;
+  font-size: 20px;
   margin: 0px;
+  font-weight: bold;
 }
 
 .n-card-sub-title {
   font-size: 16px;
   margin: 0px;
+}
+
+.n-card-links {
+  color: rgb(101, 98, 98);
+}
+.title {
+  padding-left: 5%;
+  padding-bottom: 4%;
 }

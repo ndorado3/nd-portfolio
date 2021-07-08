@@ -6,8 +6,8 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 
 import pawme from "../../Assets/img/pawme.png";
-import wilbo from "../../Assets/img/wilbo.jpg";
-import workout from "../../Assets/img/workout.png";
+import wilbo from "../../Assets/img/wilbo.png";
+import workout from "../../Assets/img/workout1.png";
 
 class CardGroup extends React.Component {
   constructor(props) {
@@ -76,7 +76,7 @@ class CardGroup extends React.Component {
   render() {
     return (
       <Container fluid={true}>
-        <Row className="justify-content-around">
+        <Row sm={8} md={4} className="justify-content-around">
           {this.makeItems(this.state.items)}
         </Row>
       </Container>

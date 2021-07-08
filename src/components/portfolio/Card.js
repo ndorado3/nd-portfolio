@@ -6,7 +6,7 @@ import "../../Assets/css/Projects.css";
 export default function Card(props) {
   return (
     <div
-      className="d-inline-block n-card"
+      className="display-inline-block n-card"
       onClick={(e) => props.click(props.item)}
     >
       <img

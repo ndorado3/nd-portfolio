@@ -1,2 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
 
+.jum-con {
+  padding-left: 5%;
+}
+
+.jum-title {
+  font-family: "Nunito", sans-serif;
+  font-size: 40pt;
+}
+
+.img-row {
+  height: 50%;
+  width: 50%;
+  padding-bottom: 5%;
+}
