@@ -2,6 +2,7 @@
   "name": "nd-portfollio",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://ndorado3.github.io/nd-portfolio/",
   "dependencies": {
     "@react-spring/web": "^9.2.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -9,6 +10,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
+    "gh-pages": "^3.2.3",
     "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
@@ -20,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
