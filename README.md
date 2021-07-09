@@ -29,9 +29,9 @@ This is my personal portfolio which features some of my recent projects, you can
 - Bootstrap
 - React
 
-## Features
+## Link
 
-[Nadia Dorado Portfolio](https://com)
+[Nadia Dorado Portfolio](https://ndorado3.github.io/nd-portfolio/)
 
 ## Contributions
 

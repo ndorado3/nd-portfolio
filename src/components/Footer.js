@@ -2,6 +2,8 @@ import React from "react";
 
 import linkInicon from "../Assets/img/linkedIn-icon.png";
 import gitHubicon from "../Assets/img/logo-github.png";
+import facebookicon from "../Assets/img/facebook.png";
+
 import "../Assets/css/Footer.css";
 
 export default function Footer() {
@@ -19,10 +21,6 @@ export default function Footer() {
           </div>
 
           <div className="col-md-6 col-lg-7 text-center text-lg-right">
-            {/* <a className="fb-ic">
-              <i className="fab fa-facebook-f white-text mr-4"> </i>
-            </a> */}
-
             {/* <!--Linkedin --> */}
             <a
               className="li-ic"
@@ -42,6 +40,15 @@ export default function Footer() {
             >
               <img src={gitHubicon} alt="gitHub" width="35" height="35" />
               <i className=" white-text"> </i>
+            </a>
+            <a
+              className="ins-ic"
+              href="https://www.facebook.com/ndorado3"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={facebookicon} alt="facebook" width="45" height="45" />
+              <i className="white-text"> </i>
             </a>
           </div>
           {/* <!-- Grid column --> */}

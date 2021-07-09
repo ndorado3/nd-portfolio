@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
+
+.resume {
+  font-family: "Nunito", sans-serif;
+  padding-left: 5%;
+  padding-bottom: 10%;
+}
+
+.title {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  padding-left: 5%;
+}
+
+.nd-cards {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  background-color: dimgray;
+}
+
+.nd-title {
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  color: deeppink;
+}
