@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import Navbar from "./Navbar";
 import Home from "./pages/Home";
@@ -16,6 +16,7 @@ export default function App() {
         <Navbar />
         <div>
           {/* Define routes to render different page components at different paths */}
+          <Switch>
           <Route exact path="/">
             <Home />
           </Route>
@@ -31,6 +32,10 @@ export default function App() {
           <Route exact path="/resume">
             <Resume />
           </Route>
+          <Route path="*">
+            <Home />
+          </Route>
+            </Switch>
         </div>
         <Footer />
       </div>
