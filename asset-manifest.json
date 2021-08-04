@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/nd-portfolio/static/css/main.cc7e104b.chunk.css",
-    "main.js": "/nd-portfolio/static/js/main.23fee4a6.chunk.js",
-    "main.js.map": "/nd-portfolio/static/js/main.23fee4a6.chunk.js.map",
+    "main.js": "/nd-portfolio/static/js/main.e49687f5.chunk.js",
+    "main.js.map": "/nd-portfolio/static/js/main.e49687f5.chunk.js.map",
     "runtime-main.js": "/nd-portfolio/static/js/runtime-main.e1a7c036.js",
     "runtime-main.js.map": "/nd-portfolio/static/js/runtime-main.e1a7c036.js.map",
     "static/css/2.d45d6843.chunk.css": "/nd-portfolio/static/css/2.d45d6843.chunk.css",
-    "static/js/2.84bb8ca7.chunk.js": "/nd-portfolio/static/js/2.84bb8ca7.chunk.js",
-    "static/js/2.84bb8ca7.chunk.js.map": "/nd-portfolio/static/js/2.84bb8ca7.chunk.js.map",
+    "static/js/2.d2f519d3.chunk.js": "/nd-portfolio/static/js/2.d2f519d3.chunk.js",
+    "static/js/2.d2f519d3.chunk.js.map": "/nd-portfolio/static/js/2.d2f519d3.chunk.js.map",
     "index.html": "/nd-portfolio/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/nd-portfolio/static/css/2.d45d6843.chunk.css.map",
     "static/css/main.cc7e104b.chunk.css.map": "/nd-portfolio/static/css/main.cc7e104b.chunk.css.map",
-    "static/js/2.84bb8ca7.chunk.js.LICENSE.txt": "/nd-portfolio/static/js/2.84bb8ca7.chunk.js.LICENSE.txt",
+    "static/js/2.d2f519d3.chunk.js.LICENSE.txt": "/nd-portfolio/static/js/2.d2f519d3.chunk.js.LICENSE.txt",
     "static/media/aquila.b2ff82f7.jpeg": "/nd-portfolio/static/media/aquila.b2ff82f7.jpeg",
     "static/media/family.f02304a5.jpg": "/nd-portfolio/static/media/family.f02304a5.jpg",
     "static/media/my-pic.368f089c.png": "/nd-portfolio/static/media/my-pic.368f089c.png",
     "static/media/pawme.4c73c09c.png": "/nd-portfolio/static/media/pawme.4c73c09c.png",
     "static/media/resume.e7f46b8f.pdf": "/nd-portfolio/static/media/resume.e7f46b8f.pdf",
+    "static/media/snow.b0435f84.jpeg": "/nd-portfolio/static/media/snow.b0435f84.jpeg",
     "static/media/wilbo.aca11a8c.png": "/nd-portfolio/static/media/wilbo.aca11a8c.png",
     "static/media/workout1.4244c718.png": "/nd-portfolio/static/media/workout1.4244c718.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e1a7c036.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.84bb8ca7.chunk.js",
+    "static/js/2.d2f519d3.chunk.js",
     "static/css/main.cc7e104b.chunk.css",
-    "static/js/main.23fee4a6.chunk.js"
+    "static/js/main.e49687f5.chunk.js"
   ]
 }
