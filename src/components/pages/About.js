@@ -8,6 +8,9 @@ import Image from "react-bootstrap/Image";
 
 import familyPic from "../../Assets/img/family.jpg";
 import aquila from "../../Assets/img/aquila.jpeg";
+import snow from "../../Assets/img/snow.jpeg";
+import bike from "../../Assets/img/bike.jpeg";
+
 import "../../Assets/css/About.css";
 
 export default function About() {
@@ -29,13 +32,19 @@ export default function About() {
           </p>
         </Row>
         <Row className="img-row">
-          <Col xs={12} md={6}>
+            <Col  >
             <Image src={aquila} thumbnail />
           </Col>
-          <Col xs={12} md={6}>
+          <Col  >
             <Image src={familyPic} thumbnail />
           </Col>
-        </Row>
+          <Col  >
+            <Image src={snow} thumbnail />
+          </Col>
+          <Col >
+            <Image src={bike} thumbnail />
+          </Col>
+          </Row>
       </Container>
     </Jumbotron>
   );

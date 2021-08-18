@@ -8,6 +8,7 @@ import Row from "react-bootstrap/Row";
 import pawme from "../../Assets/img/pawme.png";
 import wilbo from "../../Assets/img/wilbo.png";
 import workout from "../../Assets/img/workout1.png";
+import murdering from "../../Assets/img/murdering.png"
 
 class CardGroup extends React.Component {
   constructor(props) {
@@ -35,6 +36,17 @@ class CardGroup extends React.Component {
         },
         {
           id: 2,
+          title: "Murdering Green",
+          subTitle: "Carbon Print calculator for crimes",
+          // imgSrc: muderingGreen,
+          imgSrc: murdering,
+          link: "https://murder-green.herokuapp.com/",
+          repo: "https://github.com/lmp-beep/murder-in-green",
+          prototype: "https://xd.adobe.com/view/a1b27e71-9097-4ff4-a51f-28baa5fb7dd0-f4e1/",
+          selected: false,
+        },
+        {
+          id: 3,
           title: "OH-MY!! Own Workout Tracker",
           subTitle: "Workout Tracker",
           imgSrc: workout,

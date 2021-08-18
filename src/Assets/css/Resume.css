@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Chicle&family=Nunito&display=swap");
 
-.resume {
+.bt-resume {
   font-family: "Nunito", sans-serif;
-  padding-left: 5%;
-  padding-bottom: 10%;
+  background-color: #ac7892f5;
+  align-content: center;
+  text-align: center;
+  box-shadow: 4px 4px 8px rgb(141, 140, 140);
+  padding-left: 50%;
 }
 
 .title {
