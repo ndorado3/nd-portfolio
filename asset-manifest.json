@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/nd-portfolio/static/css/main.cc7e104b.chunk.css",
-    "main.js": "/nd-portfolio/static/js/main.e49687f5.chunk.js",
-    "main.js.map": "/nd-portfolio/static/js/main.e49687f5.chunk.js.map",
+    "main.css": "/nd-portfolio/static/css/main.011b67a6.chunk.css",
+    "main.js": "/nd-portfolio/static/js/main.a771f0be.chunk.js",
+    "main.js.map": "/nd-portfolio/static/js/main.a771f0be.chunk.js.map",
     "runtime-main.js": "/nd-portfolio/static/js/runtime-main.e1a7c036.js",
     "runtime-main.js.map": "/nd-portfolio/static/js/runtime-main.e1a7c036.js.map",
     "static/css/2.d45d6843.chunk.css": "/nd-portfolio/static/css/2.d45d6843.chunk.css",
-    "static/js/2.d2f519d3.chunk.js": "/nd-portfolio/static/js/2.d2f519d3.chunk.js",
-    "static/js/2.d2f519d3.chunk.js.map": "/nd-portfolio/static/js/2.d2f519d3.chunk.js.map",
+    "static/js/2.01b75e17.chunk.js": "/nd-portfolio/static/js/2.01b75e17.chunk.js",
+    "static/js/2.01b75e17.chunk.js.map": "/nd-portfolio/static/js/2.01b75e17.chunk.js.map",
     "index.html": "/nd-portfolio/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/nd-portfolio/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.cc7e104b.chunk.css.map": "/nd-portfolio/static/css/main.cc7e104b.chunk.css.map",
-    "static/js/2.d2f519d3.chunk.js.LICENSE.txt": "/nd-portfolio/static/js/2.d2f519d3.chunk.js.LICENSE.txt",
+    "static/css/main.011b67a6.chunk.css.map": "/nd-portfolio/static/css/main.011b67a6.chunk.css.map",
+    "static/js/2.01b75e17.chunk.js.LICENSE.txt": "/nd-portfolio/static/js/2.01b75e17.chunk.js.LICENSE.txt",
     "static/media/aquila.b2ff82f7.jpeg": "/nd-portfolio/static/media/aquila.b2ff82f7.jpeg",
+    "static/media/bike.c53fb920.jpeg": "/nd-portfolio/static/media/bike.c53fb920.jpeg",
     "static/media/family.f02304a5.jpg": "/nd-portfolio/static/media/family.f02304a5.jpg",
+    "static/media/murdering.5358202b.png": "/nd-portfolio/static/media/murdering.5358202b.png",
     "static/media/my-pic.368f089c.png": "/nd-portfolio/static/media/my-pic.368f089c.png",
     "static/media/pawme.4c73c09c.png": "/nd-portfolio/static/media/pawme.4c73c09c.png",
     "static/media/resume.e7f46b8f.pdf": "/nd-portfolio/static/media/resume.e7f46b8f.pdf",
@@ -24,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.e1a7c036.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.d2f519d3.chunk.js",
-    "static/css/main.cc7e104b.chunk.css",
-    "static/js/main.e49687f5.chunk.js"
+    "static/js/2.01b75e17.chunk.js",
+    "static/css/main.011b67a6.chunk.css",
+    "static/js/main.a771f0be.chunk.js"
   ]
 }
